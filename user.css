@@ -1,0 +1,77 @@
+.warp{
+    widows: auto;
+    font-size: 15px;
+    font-family: "Verdana","新細明體",Geneva,Tahoma,sans-serif;
+    color:black;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    background-image:url('https://image.16pic.com/00/09/48/16pic_948191_s.jpg?imageView2/0/format/png');
+}
+.title{
+    width: 450px;
+    height: 20px;
+    margin: 10px;
+    font-size: 45px;
+    color: #3d3dac;
+    margin-top:20px;
+    margin-left: 650px;
+}
+.money{
+    width: 450px; 
+    height: 20px;
+    margin: 10px;
+    font-size: 30px;
+    color: #3d3dac;
+    margin-top:-15px;
+    margin-left: 270px;
+}
+.information{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    float:left;
+}
+.information #not{
+    width: 450px;
+    height: 20px;
+    margin: 10px;
+    font-size: 25px;
+    color: #2929a0;
+    margin-top:100px;
+    margin-left: 325px;
+    float:left;
+}
+.success{
+    width: 450px;
+    height: 20px;
+    margin: 10px;
+    font-size: 25px;
+    color: #2929a0;
+    margin-top:-85px;
+    margin-left: 85px;
+    float:left;
+}
+.fails{
+    width: 450px;
+    height: 20px;
+    margin: 10px;
+    font-size: 25px;
+    color: #2929a0;
+    margin-top:-85px;
+    margin-left: 360px;
+    float:left;
+}
+.table1{
+    width: 1000px;
+    margin-top:65px;
+    margin-left: 500px;
+    float:left;
+}
+.home{
+    width: 80px;
+    height: 20px;
+    margin-top:-45px;
+    margin-left: 600px;
+}

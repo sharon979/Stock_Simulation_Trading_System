@@ -1,0 +1,136 @@
+.warp{
+    widows: auto;
+    font-size: 15px;
+    font-family: "Verdana","新細明體",Geneva,Tahoma,sans-serif;
+    color:black;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    background-image:url('https://image.16pic.com/00/09/48/16pic_948191_s.jpg?imageView2/0/format/png');
+}
+.clear{
+    clear: both;
+}
+.header{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header h1{
+    width: 750px;
+    height: 20px;
+    margin: 10px;
+    font-size: 55px;
+    color: #000079;
+    margin-top:40px;
+    margin-left: 425px;
+}
+.nowuser{
+    width: 450px;
+    height: 20px;
+    margin: 10px;
+    font-size: 25px;
+    color: #2929a0;
+    margin-top:-10px;
+    margin-left: 1150px;
+}
+.information{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    float:left;
+}
+.information h3{
+    width: 450px;
+    height: 20px;
+    margin: 10px;
+    font-size: 35px;
+    color: #3d3dac;
+    margin-top:70px;
+    margin-left: 625px;
+    float:left;
+
+}
+.information #stock{
+    width: 200px;
+    height: 40px;
+    margin: 10px;
+    margin-top: 35px;
+    margin-left: 557px;
+    border-radius:10px
+}
+.information #input{
+    width: 80px;
+    height: 40px;
+    margin: 10px;
+    margin-top: 35px;
+    margin-left: 20px;
+    border-radius:10px
+}
+.table{
+    margin-top: 55px;
+    margin-left: 357px;
+    float:left;
+}
+#out{
+    width: 50px;
+    height: 20px;
+    margin-top: -20px;
+    margin-left: 1245px;
+    float:left;
+}
+#me{
+    width: 100px;
+    height: 20px;
+    margin-top: 45px;
+    margin-left: 1125px;
+    float:left;
+}
+.buy{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    float:left;
+
+}
+.buy #buy{
+    width: 80px;
+    height: 40px;
+    margin: 10px;
+    margin-top: -55px;
+    margin-left: 830px;
+    border-radius:10px;
+    font-size: 15px;
+    float:left;
+
+}
+.buy #howmany{
+    width: 100px;
+    height: 40px;
+    margin: 10px;
+    margin-top: -25px;
+    margin-left: 680px;
+    border-radius:10px;
+    float:left;
+}
+.buy h4{
+    width: 200px;
+    height: 10px;
+    margin: 10px;
+    font-size: 20px;
+    color: #3d3dac;
+    margin-top:45px;
+    margin-left: 530px;
+    float:left;
+}
+.buysomething{
+    width: 180px;
+    height: 40px;
+    margin: 10px;
+    margin-top: 15px;
+    margin-left: 630px;
+    border-radius:10px;
+    font-size: 25px;
+    float:left;
+}
